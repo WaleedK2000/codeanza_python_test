@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Amazfit GTS 4 Mini Smart Watch for Women Men, Alexa Built-in, GPS, Fitness Tracker with 120+ Sport Modes, 15-Day Battery Life, Heart Rate Blood Oxygen Monitor, Android Phone iPhone Compatible-Pink",
+    "price": "$99.99",
+    "rating": "7,282",
+    "image": "https://m.media-amazon.com/images/I/61cV3zY-ddL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.077186",
+    "creation_date": "2024-03-31 04:40:30.077186",
+    "update_date": "2024-03-31 04:40:30.077186"
+  },
+  {
+    "name": "Garmin v\u00edvofit\u00ae jr. 3 Kids Fitness Tracker, The Mandalorian\u2122, Up to 1 Year Battery Life, Swim-Friendly, Activity Unlocks Adventure",
+    "price": "$89.99",
+    "rating": "3,576",
+    "image": "https://m.media-amazon.com/images/I/61RGtPDOtNL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.085397",
+    "creation_date": "2024-03-31 04:40:30.085397",
+    "update_date": "2024-03-31 04:40:30.085397"
+  },
+  {
+    "name": "Fitness Tracker, Activity and Heart Rate Tracker with Sleep/Step/Calories Monitor, Waterproof Exercise Pedometer & Fitness Watch for Women Men",
+    "price": "$21.83",
+    "rating": "118",
+    "image": "https://m.media-amazon.com/images/I/616d2XXE4lL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.092987",
+    "creation_date": "2024-03-31 04:40:30.092987",
+    "update_date": "2024-03-31 04:40:30.092987"
+  },
+  {
+    "name": "Xiaomi Smart Band 8 Pro Fitness Tracker, 1.74\" AMOLED Display, up to 20 Days Battery, 5ATM, SpO2 Tracking, Sleep and Heart Rate Monitoring, 150+ Training Modes, Pedometer, Silver/Gray",
+    "price": "$65.83",
+    "rating": "17",
+    "image": "https://m.media-amazon.com/images/I/61h2nX+fCPL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.100185",
+    "creation_date": "2024-03-31 04:40:30.100185",
+    "update_date": "2024-03-31 04:40:30.100185"
+  },
+  {
+    "name": "Apple Watch SE (2nd Gen) [GPS 40mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Loop. Fitness & Sleep Tracker, Crash Detection, Heart Rate Monitor, Carbon Neutral",
+    "price": "",
+    "rating": "6,613",
+    "image": "https://m.media-amazon.com/images/I/819CwRIckoL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.110067",
+    "creation_date": "2024-03-31 04:40:30.110067",
+    "update_date": "2024-03-31 04:40:30.110067"
+  },
+  {
+    "name": "Fitness Tracker HR, with Blood Pressure Heart Rate Monitor, Pedometer, Sleep Monitor, Calorie Counter, Vibrating Alarm, Clock IP68 Waterproof, Black (QI-XW-ZNSH01)",
+    "price": "$31.53",
+    "rating": "9",
+    "image": "https://m.media-amazon.com/images/I/61TMw3IxFOS._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.118547",
+    "creation_date": "2024-03-31 04:40:30.118547",
+    "update_date": "2024-03-31 04:40:30.118547"
+  },
+  {
+    "name": "Oura Ring Gen3 Heritage - Smart Ring - Size First with Oura Sizing Kit - Sleep Tracking Wearable - Heart Rate - Fitness Tracker - 5-7 Days Battery Life",
+    "price": "$299.00",
+    "rating": "97",
+    "image": "https://m.media-amazon.com/images/I/71z3D2yOjxL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.125580",
+    "creation_date": "2024-03-31 04:40:30.125580",
+    "update_date": "2024-03-31 04:40:30.125580"
+  },
+  {
+    "name": "Garmin Vivoactive 4, GPS Smartwatch, Features Music, Body Energy Monitoring, Animated Workouts, Pulse Ox Sensors and More, Black",
+    "price": "$329.99",
+    "rating": "16,984",
+    "image": "https://m.media-amazon.com/images/I/51VG5cWFoCL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.134552",
+    "creation_date": "2024-03-31 04:40:30.134552",
+    "update_date": "2024-03-31 04:40:30.134552"
+  },
+  {
+    "name": "Portzon Fitness Tracker with Heart Rate Sleep Health Monitor for Men and Women, Waterproof Activity Step Tracker",
+    "price": "$43.01",
+    "rating": "1,110",
+    "image": "https://m.media-amazon.com/images/I/614ZZmDgVDL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.141583",
+    "creation_date": "2024-03-31 04:40:30.141583",
+    "update_date": "2024-03-31 04:40:30.141583"
+  },
+  {
+    "name": "Timex Ironman Transit Watch with Activity Tracking & Heart Rate",
+    "price": "$60.00",
+    "rating": "629",
+    "image": "https://m.media-amazon.com/images/I/818vdgZOWsL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.151376",
+    "creation_date": "2024-03-31 04:40:30.151376",
+    "update_date": "2024-03-31 04:40:30.151376"
+  },
+  {
+    "name": "Garmin v\u00edvoactive 5, Health and Fitness GPS Smartwatch, AMOLED Display, Up to 11 Days of Battery, Black",
+    "price": "$299.97",
+    "rating": "949",
+    "image": "https://m.media-amazon.com/images/I/61wvnyZxydL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.158373",
+    "creation_date": "2024-03-31 04:40:30.158373",
+    "update_date": "2024-03-31 04:40:30.158373"
+  },
+  {
+    "name": "Polar Pacer Pro - Advanced GPS Running Watch - Ultra-Light Design & Grip Buttons - New Training Program & Recovery Tools",
+    "price": "$277.05",
+    "rating": "728",
+    "image": "https://m.media-amazon.com/images/I/71HSCQ-gT9L._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.167422",
+    "creation_date": "2024-03-31 04:40:30.167422",
+    "update_date": "2024-03-31 04:40:30.167422"
+  },
+  {
+    "name": "Etekcity Fitness Tracker, Activity Tracker with Step Counter,Heart Rate Monitor and Sleep Tracking for Men Kids, Blue, Color Touch Screen",
+    "price": "$33.99",
+    "rating": "204",
+    "image": "https://m.media-amazon.com/images/I/61LxuZeMmcL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.173991",
+    "creation_date": "2024-03-31 04:40:30.173991",
+    "update_date": "2024-03-31 04:40:30.173991"
+  },
+  {
+    "name": "Fitbit Charge 6 Fitness Tracker with Google apps, Heart Rate on Exercise Equipment, 6-Months Premium Membership Included, GPS, Health Tools and More, Obsidian/Black, One Size (S & L Bands Included)",
+    "price": "$139.00",
+    "rating": "3,815",
+    "image": "https://m.media-amazon.com/images/I/61ZtqtvoD2L._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.187990",
+    "creation_date": "2024-03-31 04:40:30.187990",
+    "update_date": "2024-03-31 04:40:30.187990"
+  },
+  {
+    "name": "Fitbit Zip Wireless Activity Tracker, Charcoal",
+    "price": "",
+    "rating": "6,319",
+    "image": "https://m.media-amazon.com/images/I/61Hj5h7o0+L._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.193994",
+    "creation_date": "2024-03-31 04:40:30.193994",
+    "update_date": "2024-03-31 04:40:30.193994"
+  },
+  {
+    "name": "Charge 3 Fitness Activity Tracker",
+    "price": "",
+    "rating": "49,540",
+    "image": "https://m.media-amazon.com/images/I/71jQaHrVJmL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:30.253191",
+    "creation_date": "2024-03-31 04:40:30.253191",
+    "update_date": "2024-03-31 04:40:30.253191"
+  },
+  {
+    "name": "Amazfit Band 7 Fitness & Health Tracker for Women Men, 18-Day Battery Life & Replacement Band Band 7 Fitness Tracker, Sport Band Silicone Wristbands Strap for Women Men, Green",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/51lVaxJyHFL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.412077",
+    "creation_date": "2024-03-31 04:40:36.412077",
+    "update_date": "2024-03-31 04:40:36.412077"
+  },
+  {
+    "name": "Fitness Activity Tracker IPX65 Waterproof Watch with Blood Pressure Heart Rate Sleep Monitor with Sport Modes for Android Phones iOS, one (WA-01)",
+    "price": "$19.99",
+    "rating": "15",
+    "image": "https://m.media-amazon.com/images/I/31MwhFV8j2L._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.419043",
+    "creation_date": "2024-03-31 04:40:36.419043",
+    "update_date": "2024-03-31 04:40:36.419043"
+  },
+  {
+    "name": "Pyle Digital Multifunction Sports Wrist Watch-Smart Fit Classic Men Women Sport Running Training Fitness Gear Tracker w/ Sleep Monitor,Pedometer,Alarm,Stopwatch,Backlight-Pyle PAST44SL (Silver)",
+    "price": "$26.99",
+    "rating": "12",
+    "image": "https://m.media-amazon.com/images/I/61rKx7smqYL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.427111",
+    "creation_date": "2024-03-31 04:40:36.427111",
+    "update_date": "2024-03-31 04:40:36.427111"
+  },
+  {
+    "name": "Fitbit Charge 2 Heart Rate + Fitness Wristband, Special Edition, Lavender Rose Gold, Large (US Version)",
+    "price": "",
+    "rating": "30,057",
+    "image": "https://m.media-amazon.com/images/I/81NTsemJsLL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.435186",
+    "creation_date": "2024-03-31 04:40:36.435186",
+    "update_date": "2024-03-31 04:40:36.435186"
+  },
+  {
+    "name": "POLAR Ignite 2 - Fitness Smartwatch with Integrated GPS - Wrist-Based Heart Monitor - Personalized Guidance for Workouts, Recovery and Sleep Tracking - Music Controls, Weather, Phone Notifications",
+    "price": "$225.57",
+    "rating": "1,626",
+    "image": "https://m.media-amazon.com/images/I/61eE2SUNYvL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.442224",
+    "creation_date": "2024-03-31 04:40:36.442224",
+    "update_date": "2024-03-31 04:40:36.442224"
+  },
+  {
+    "name": "Luqeeg Health Tracker Smart Ring, Bluetooth Connection Health Fitness Tracker, IPX8 Waterproof Rechargeable Smart Ring Heart Rate Body Temperature Pedometer for Heart Rate Sleep Monitor",
+    "price": "$49.08",
+    "rating": "3",
+    "image": "https://m.media-amazon.com/images/I/61A7mV3pSWL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.450950",
+    "creation_date": "2024-03-31 04:40:36.450950",
+    "update_date": "2024-03-31 04:40:36.450950"
+  },
+  {
+    "name": "ZURURU H98 Fitness Tracker Bundle with One Replacement Charging Cable",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61rRGO6ouDL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.454541",
+    "creation_date": "2024-03-31 04:40:36.454541",
+    "update_date": "2024-03-31 04:40:36.454541"
+  },
+  {
+    "name": "Master Massage Equipment S5 Fitness Tracker Watch with IP68 Waterproof, Activity Tracker with Heart Rate, Sleep Monitor, Sedentary Reminder, Calorie Counter, and Notification Reminder Silver",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/51s0Y4wA+BL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.460505",
+    "creation_date": "2024-03-31 04:40:36.460505",
+    "update_date": "2024-03-31 04:40:36.460505"
+  },
+  {
+    "name": "Military Smart Watches for OnePlus Nord N10 - HD 1.96\u201d Big Screen Rugged Smart Watch (Answer/Dial Calls) Outdoor Tactical Sports Watch Fitness Tracker Smartwatch - Black",
+    "price": "$45.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/51jyoJ5VMpL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.468032",
+    "creation_date": "2024-03-31 04:40:36.468032",
+    "update_date": "2024-03-31 04:40:36.468032"
+  },
+  {
+    "name": "Amazfit Band 5 Activity Fitness Tracker Bundle for Men, Women and Kids",
+    "price": "",
+    "rating": "3",
+    "image": "https://m.media-amazon.com/images/I/411BINI0NIL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.472376",
+    "creation_date": "2024-03-31 04:40:36.472376",
+    "update_date": "2024-03-31 04:40:36.472376"
+  },
+  {
+    "name": "Slide Fitness Tracker & True Wireless Earbuds 2-in-1 Combo Pack | Sweatproof Sports & Running Exercise Pack | Rechargeable Workout Equipment w/Bluetooth Earbuds and Smart Watch | Music, Call Controls",
+    "price": "$24.08",
+    "rating": "11",
+    "image": "https://m.media-amazon.com/images/I/61gSCWk1gEL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.478381",
+    "creation_date": "2024-03-31 04:40:36.478381",
+    "update_date": "2024-03-31 04:40:36.478381"
+  },
+  {
+    "name": "Sprint 1.39\" HD Large Round Dial Smart Watches for Men and Women",
+    "price": "$48.49",
+    "rating": "58",
+    "image": "https://m.media-amazon.com/images/I/61t4TsDNzlL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.486347",
+    "creation_date": "2024-03-31 04:40:36.486347",
+    "update_date": "2024-03-31 04:40:36.486347"
+  },
+  {
+    "name": "EIGIIS Military Smart Watch for Men Outdoor Waterproof Tactical Smartwatch Bluetooth Dail Calls Speaker 1.3'' HD Touch Screen Fitness Tracker Watch + Charger 2 Pin Magnetic Charging Cable",
+    "price": "$59.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/71sQ+ExmdZL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.491353",
+    "creation_date": "2024-03-31 04:40:36.491353",
+    "update_date": "2024-03-31 04:40:36.491353"
+  },
+  {
+    "name": "Metal Wristbands for Steel HR, Steel HR Sport, Move ECG and Move",
+    "price": "$84.27",
+    "rating": "1,145",
+    "image": "https://m.media-amazon.com/images/I/61hszcFY-zL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.499223",
+    "creation_date": "2024-03-31 04:40:36.499223",
+    "update_date": "2024-03-31 04:40:36.499223"
+  },
+  {
+    "name": "Fitpolo Smart Watch for Men Women Android Phone iPhone Compatible, 1.8\" HD Screen, Alexa Built-in, IP68 Waterproof Fitness Tracker with Heart Rate Monitor, Sleep & Stress Tracking, Bluetooth Call",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61w0Gc2ENsL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.503638",
+    "creation_date": "2024-03-31 04:40:36.503638",
+    "update_date": "2024-03-31 04:40:36.503638"
+  },
+  {
+    "name": "WalkerFit Fitness Tracker Watch Pink and Black, Fitness Watch with Blood Pressure Heart Rate Sleep Monitor, Waterproof Activity Tracker and Android Smart Watch for iPhone, Step Tracker, Pedometer",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61ujH5SFz0L._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:36.507638",
+    "creation_date": "2024-03-31 04:40:36.507638",
+    "update_date": "2024-03-31 04:40:36.507638"
+  },
+  {
+    "name": "Luqeeg Smart Ring, Smart Health Ring for Sleeping, Body Temperature, Steps Sports Health Tracker Waterproof Smart Fitness Ring with Charging Case Activity Fitness Tracker for Women Men",
+    "price": "$48.21",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/517gb2Q6gkL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.548806",
+    "creation_date": "2024-03-31 04:40:45.548806",
+    "update_date": "2024-03-31 04:40:45.548806"
+  },
+  {
+    "name": "Military Smart Watches for Men Bluetooth Call (Make/Answer) 1.91\" HD Touch Screen 108+ Sports Modes Fitness Tracker with Heart Rate SpO2 Sleep Monitor Pedometer Tactical Smartwatch for iPhone Android",
+    "price": "$49.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/71cDMRZDX9L._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.551803",
+    "creation_date": "2024-03-31 04:40:45.551803",
+    "update_date": "2024-03-31 04:40:45.551803"
+  },
+  {
+    "name": "Price Dropper GTS-5 Bluetooth Watch for Android & iOS (5 Colors) \u2013 Watch to Make Calls & Send Texts \u2013 Fitness Tracker: 100 Sport Modes/Step Counter (Black)",
+    "price": "$46.95",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/51xvT8oGMxL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.555766",
+    "creation_date": "2024-03-31 04:40:45.555766",
+    "update_date": "2024-03-31 04:40:45.555766"
+  },
+  {
+    "name": "Military Smart Watch for Men 2.0\" HD with Call Elevation Barometer Compass IP68 Waterproof 650 mAh Big Battery Fitness Tracker with 100+ Sports Modes Rugged Tactical Watch for iPhone Android",
+    "price": "$54.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/71MB8CSVIpL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.562804",
+    "creation_date": "2024-03-31 04:40:45.562804",
+    "update_date": "2024-03-31 04:40:45.562804"
+  },
+  {
+    "name": "GTS-5 Bluetooth Watch for Android & iOS (5 Colors) \u2013 Watch to Make Calls & Send Texts \u2013 Fitness Tracker: 100 Sport Modes/Step Counter",
+    "price": "$47.95",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61+T-bfLeWL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.567767",
+    "creation_date": "2024-03-31 04:40:45.567767",
+    "update_date": "2024-03-31 04:40:45.567767"
+  },
+  {
+    "name": "Military Smart Watch for Men, Bluetooth Call, 1.57\" HD Outdoor Tactical Rugged Smart Watch, 100+ Sports Modes Fitness Tracker Heart Rate SpO2 Sleep Monitor Smartwatch for iPhone Android Phones",
+    "price": "$48.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/81J77ui4e1L._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.571765",
+    "creation_date": "2024-03-31 04:40:45.571765",
+    "update_date": "2024-03-31 04:40:45.571765"
+  },
+  {
+    "name": "Fitness Tracker Smart Watch with Heart Rate Blood Oxygen Blood Pressure Sleep Monitor IP68 Waterproof for Android Phones iPhone Women Men",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61Jln18ErDL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.574801",
+    "creation_date": "2024-03-31 04:40:45.574801",
+    "update_date": "2024-03-31 04:40:45.574801"
+  },
+  {
+    "name": "Parsonver Smart Watch Fitness Tracker, PS01G Bundle with PSF1G, 2 Pack",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61jqLtOg8cL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.582107",
+    "creation_date": "2024-03-31 04:40:45.582107",
+    "update_date": "2024-03-31 04:40:45.582107"
+  },
+  {
+    "name": "Parsonver Smart Watch Fitness Tracker, PS01PU Bundle with PSF1G, 2 Pack",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61eIr6KNjGL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.586106",
+    "creation_date": "2024-03-31 04:40:45.586106",
+    "update_date": "2024-03-31 04:40:45.586106"
+  },
+  {
+    "name": "Smart Watch for Women Men 1.43'' AMOLED Screen Smartwatch Sport Fitness Tracker IP67 Waterproof Outdoor Activity Tracker with Heart Rate Monitor Pedometer Sleep Monitor for Android iPhone Phones",
+    "price": "$39.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/71T-zxltiXL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.590071",
+    "creation_date": "2024-03-31 04:40:45.590071",
+    "update_date": "2024-03-31 04:40:45.590071"
+  },
+  {
+    "name": "Military Smart Watch for Men with Bluetooth Calls 1.83'' HD 3ATM Waterproof Rugged Smartwatch 100+ Sport Modes Outdoor Fitness Tracker with Heart Rate Sleep Monitor Pedometer for iPhone Android",
+    "price": "$54.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/71JuEs-dkXL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.596214",
+    "creation_date": "2024-03-31 04:40:45.596214",
+    "update_date": "2024-03-31 04:40:45.596214"
+  },
+  {
+    "name": "Military Smart Watch for Men Make Calls 1.96\" AMOLED Always On Display Fitness Tracker with Heart Rate Sleep Monitor Pedometer Tactical Smartwatch Compatible with iPhone Android Waterproof",
+    "price": "$54.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/71iOyKcwrkL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.603259",
+    "creation_date": "2024-03-31 04:40:45.603259",
+    "update_date": "2024-03-31 04:40:45.603259"
+  },
+  {
+    "name": "Military Smart Watch for Men with LED Flashlight Bluetooth Calling 1.53\" HD Outdoor Tactical Smartwatch 3TM Waterproof Sports Fitness Tracker Watch Heart Rate Sleep Monitor for iPhone Android Phone",
+    "price": "$39.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/716DTnZpdhL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.607260",
+    "creation_date": "2024-03-31 04:40:45.607260",
+    "update_date": "2024-03-31 04:40:45.607260"
+  },
+  {
+    "name": "Military Smart Watch for Men 5ATM Waterproof (Answer/Dial Calls) Tactical Smartwatch with Compass 2.02\" HD Big Screen Rugged Fitness Tracker with Heart Rate Sleep Monitor Pedometer for iPhone Android",
+    "price": "$54.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/81aT1QkHVaL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.613267",
+    "creation_date": "2024-03-31 04:40:45.613267",
+    "update_date": "2024-03-31 04:40:45.613267"
+  },
+  {
+    "name": "Military Smart Watches for Men with Breathing LED Light 2024 Newest 1.91\" HD Fitness Tracker (Answer/Make Call) Heart Rate Sleep Monitor 100+ Sports Mode Rugged Smartwatch for iOS Android Phones",
+    "price": "$45.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/81vDGrhzTaL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.618232",
+    "creation_date": "2024-03-31 04:40:45.618232",
+    "update_date": "2024-03-31 04:40:45.618232"
+  },
+  {
+    "name": "Beacon Pet Smart Watch for Men IP68 Waterproof Smartwatch Heart Rate Monitor Sleep Tracker Smart Watches Full Touch Screen Sport Smart Watch Activity Tracker Fitness Tracker Step Calorie (Red)",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61sIovsd8xS._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:45.622263",
+    "creation_date": "2024-03-31 04:40:45.622263",
+    "update_date": "2024-03-31 04:40:45.622263"
+  },
+  {
+    "name": "Military Smart Watch for Men with LED Flashlight Bluetooth Calling 1.53\" HD Outdoor Tactical Smartwatch 3TM Waterproof Sports Fitness Tracker Watch Heart Rate Sleep Monitor for iPhone Android Phone",
+    "price": "$89.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/81Sqsa1+pAL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.697965",
+    "creation_date": "2024-03-31 04:40:47.697965",
+    "update_date": "2024-03-31 04:40:47.697965"
+  },
+  {
+    "name": "Withings Steel HR Sport - Multisport hybrid Smartwatch, connected GPS, heart rate, fitness level via VO2 max, activity and sleep tracking, notifications",
+    "price": "$189.98",
+    "rating": "4,694",
+    "image": "https://m.media-amazon.com/images/I/71um15bzLQL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.705976",
+    "creation_date": "2024-03-31 04:40:47.705976",
+    "update_date": "2024-03-31 04:40:47.705976"
+  },
+  {
+    "name": "Smart Scale Pro + anyloop Fitness Tracker",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61IPikGZudL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.713716",
+    "creation_date": "2024-03-31 04:40:47.713716",
+    "update_date": "2024-03-31 04:40:47.713716"
+  },
+  {
+    "name": "Sleep Tracker Ring, HR214 Smart Health Ring Wearable Waterproof Gold Rechargeable for Exercise",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61ZPceg7eVL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.716778",
+    "creation_date": "2024-03-31 04:40:47.717779",
+    "update_date": "2024-03-31 04:40:47.717779"
+  },
+  {
+    "name": "Suunto 3 Fitness Tracker Sports Watch",
+    "price": "",
+    "rating": "191",
+    "image": "https://m.media-amazon.com/images/I/61VTTCBgYBL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.724180",
+    "creation_date": "2024-03-31 04:40:47.724180",
+    "update_date": "2024-03-31 04:40:47.724180"
+  },
+  {
+    "name": "Military Smart Watches for Nokia 2760 Flip - HD 1.96\u201d Big Screen Rugged Smart Watch (Answer/Dial Calls) Outdoor Tactical Sports Watch Fitness Tracker Smartwatch - Black",
+    "price": "$45.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/51jyoJ5VMpL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.730574",
+    "creation_date": "2024-03-31 04:40:47.730574",
+    "update_date": "2024-03-31 04:40:47.730574"
+  },
+  {
+    "name": "BESTOYARD 3pcs Fitness Band Step Counter Fitness Activity Tracker Fitness Tracker Heart Rate Sleep Monitor Pedometer Sleep Monitor Wristband Bracelet N72 to Sleep",
+    "price": "$21.39",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/51jMcdB8sGL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.736637",
+    "creation_date": "2024-03-31 04:40:47.737637",
+    "update_date": "2024-03-31 04:40:47.737637"
+  },
+  {
+    "name": "Smart Watch, Fitness Tracker with Dail Calls Speaker, HD Touch Screen IP68 Waterproof Smartwatch, 100 Sport Modes Activity Tracker with Heart Rate Monitor, Pedometer Watch for Men Women",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61349L5EmnL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.744921",
+    "creation_date": "2024-03-31 04:40:47.744921",
+    "update_date": "2024-03-31 04:40:47.744921"
+  },
+  {
+    "name": "Smart Watch, Bluetooth 5.3 Answer/Make Call, Alexa Built in, 1.8\" Fitness Tracker with Heart Rate SpO2 Sleep Monitor, Smart Watches for Men Women iPhone Android Compatible IP68 Waterproof",
+    "price": "",
+    "rating": "2",
+    "image": "https://m.media-amazon.com/images/I/61h8AXLm5tL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.751776",
+    "creation_date": "2024-03-31 04:40:47.751776",
+    "update_date": "2024-03-31 04:40:47.751776"
+  },
+  {
+    "name": "3-Pack Screen Protector, compatible with BrilliantHouse S5 Fitness Tracker TPU Film Protectors Sticker [ Not Tempered Glass ]",
+    "price": "$12.69",
+    "rating": "2",
+    "image": "https://m.media-amazon.com/images/I/51LdwqCbCnL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.757809",
+    "creation_date": "2024-03-31 04:40:47.757809",
+    "update_date": "2024-03-31 04:40:47.757809"
+  },
+  {
+    "name": "Smartwatch H12 Pro Plus 4GB + GPS Camera Call/Answer Message Alert Fitness Tracker Bluetooth Waterproof AMOLED",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/61sHbmtYz6L._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.763804",
+    "creation_date": "2024-03-31 04:40:47.763804",
+    "update_date": "2024-03-31 04:40:47.763804"
+  },
+  {
+    "name": "IVY Smart Fitness Tracker Ring with Heart Rate, Blood Pressure, Blood Oxygen, Temperature, Calorie, Sleep Monitor and Pedometer (Silvery,22#)",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/51bhQ-TudfL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.767806",
+    "creation_date": "2024-03-31 04:40:47.767806",
+    "update_date": "2024-03-31 04:40:47.767806"
+  },
+  {
+    "name": "SKG Smart Watch, Fitness Tracker with 5ATM Swimming Waterproof, Health Monitor for Heart Rate, Blood Oxygen, Sleep, 1.7'' Touch Screen Bluetooth Smartwatch Fitness Watch for Android-iPhone iOS, V7",
+    "price": "$79.99",
+    "rating": "4",
+    "image": "https://m.media-amazon.com/images/I/61IHtudX0dL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.774806",
+    "creation_date": "2024-03-31 04:40:47.774806",
+    "update_date": "2024-03-31 04:40:47.774806"
+  },
+  {
+    "name": "WHOOP Bundle - WHOOP 4.0 with 12-Month Subscription and Superluxe Band in Midnight & Platinum - Wearable Health, Fitness & Activity Tracker",
+    "price": "",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/5108J6uhtzL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.782764",
+    "creation_date": "2024-03-31 04:40:47.782764",
+    "update_date": "2024-03-31 04:40:47.782764"
+  },
+  {
+    "name": "Smart Watch for Men Women(Answer/Make Call), Waterproof Outdoor Sports Smart Watches with Heart Rate/SpO2/Sleep Monitor, Rugged Military Grade Fitness Tracker for Android iOS",
+    "price": "$58.99",
+    "rating": "",
+    "image": "https://m.media-amazon.com/images/I/71p-I4w6+BL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.786762",
+    "creation_date": "2024-03-31 04:40:47.786762",
+    "update_date": "2024-03-31 04:40:47.786762"
+  },
+  {
+    "name": "Smart Fitness Heart Rate Monitor - Digital Sports Wrist Watch Activity HR Tracker w/ Chest Strap, 3D Sensor, EL Backlight, Alarm, Used in Exercise or Running, For Men and Women - Pyle",
+    "price": "$33.11",
+    "rating": "139",
+    "image": "https://m.media-amazon.com/images/I/51i5yQ5wbBL._AC_UY218_.jpg",
+    "scrape_date": "2024-03-31 04:40:47.792766",
+    "creation_date": "2024-03-31 04:40:47.792766",
+    "update_date": "2024-03-31 04:40:47.792766"
+  }
+]
